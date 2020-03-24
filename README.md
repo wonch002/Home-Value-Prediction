@@ -49,5 +49,5 @@ https://www.themlsonline.com/minnesota-real-estate/
 * [Miro Board](https://miro.com/app/board/o9J_ku2nLBw=/)
   * Miro Board for visualizing/drawing out tasks and objectives can be found here.
 
-* [Google Hangouts][https://hangouts.google.com/]
+* [Google Hangouts](https://hangouts.google.com/)
   * Communication with team members can be found here.
