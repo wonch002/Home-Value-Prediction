@@ -1,0 +1,3 @@
+# Ignore all csv files. They're too big to be loaded onto git.
+*.csv
+*.xlsx
