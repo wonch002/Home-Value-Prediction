@@ -42,8 +42,8 @@ https://www.themlsonline.com/minnesota-real-estate/
 
 ## To Do List
 
-1. Develop a rough schedule and execution plan.
-2. Distribute tasks to everyone.
+1. EDA
+2. Model Selection
 
 ## Relevant links
 * [Miro Board](https://miro.com/app/board/o9J_ku2nLBw=/)
